@@ -53,12 +53,11 @@ I am a passionate web developer who loves building efficient and scalable applic
 </div>
 
 
-## 📫 Contact Me
+## ✉️ Contact Me
 - Email: habibullahftl@gmail.com  
 - Portfolio: https://habibullahftl.com/
 - LinkedIn: https://linkedin.com/in/habibullahftl
 - Facebook: https://www.facebook.com/HabibullahFTL
-
 
 
 ## 📶 Statistics :
