@@ -61,7 +61,7 @@ I am a passionate web developer who loves building efficient and scalable applic
 
 
 
-## Statistics :
+## 📶 Statistics :
 <div align="center"> 
     <img src="https://streak-stats.demolab.com?user=HabibullahFTL&theme=dark&hide_border=true&border_radius=12" width="700" alt="GitHub Streak" /> 
 </div> 
