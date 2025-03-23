@@ -59,3 +59,7 @@ I am a passionate web developer who loves building efficient and scalable applic
 - LinkedIn: https://linkedin.com/in/habibullahftl
 - Facebook: https://www.facebook.com/HabibullahFTL
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibullahFTL)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
