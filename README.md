@@ -79,8 +79,8 @@ I am a passionate web developer who loves building efficient and scalable applic
 
 
 ## 📶 Statistics :
-<div align="center"> 
-    <img src="https://streak-stats.demolab.com?user=HabibullahFTL&theme=dark&hide_border=true&border_radius=12" width="700" alt="GitHub Streak" /> 
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=HabibullahFTL&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </div> 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HabibullahFTL&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=Habibullah's%20GitHub%20Stats" width="400" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibullahFTL&theme=dark&hide_border=true&layout=compact&border_radius=12" width="300" alt="Top Languages" /> 
 </div>
