@@ -54,7 +54,7 @@ I am a passionate web developer who loves building efficient and scalable applic
 
 
 
-## Recent Projects
+## 💻 Recent Projects
 - [Settle Marriage](https://www.habibullahftl.com/projects/settle-marriage) – Matrimony website (Team Project) <br/>
   Role: Led the front-end development and built the admin panel's front-end and back-end.
     - Implemented authentication and role-based employee management
