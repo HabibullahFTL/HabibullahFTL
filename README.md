@@ -53,6 +53,24 @@ I am a passionate web developer who loves building efficient and scalable applic
 </div>
 
 
+
+## Recent Projects
+- [Settle Marriage](https://www.habibullahftl.com/projects/settle-marriage) – Matrimony website (Team Project) <br/>
+  Role: Led the front-end development and built the admin panel's front-end and back-end.
+    - Implemented authentication and role-based employee management
+    - Integrated seamless online and offline client management workflows with functionalities such as
+  client creation, CV generation, payment processing, refunds, and receipt generation
+    - Technologies: Next.js, TypeScript, Tailwind CSS, tRPC, PostgreSQL, Prisma, NextAuth.js.<br/>
+    [🔗 Visit Settle Marriage](https://www.settlemarriage.com/)  -  [🔗 Visit Admin Panel](https://admin.settlemarriage.com/)
+
+- [Rowely](https://www.habibullahftl.com/projects/rowely) – Fully Functional Marketplace for Bridal Wear (Team Project)<br/>
+  Role: Led front-end development for the project<br/>
+    - Implemented authentication system using Sharetribe and integrated Stripe payment system
+    - Developed profile and settings pages and contributed to order management features
+    - Technologies: Next.js, JavaScript, Sharetribe, Tailwind CSS, SWR, Zustand.<br/>
+    [🔗 Visit Rowely](https://shoprowely.com/)
+
+
 ## ✉️ Contact Me
 - Email: habibullahftl@gmail.com  
 - Portfolio: https://habibullahftl.com/
