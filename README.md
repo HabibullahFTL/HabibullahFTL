@@ -86,3 +86,12 @@ I am a passionate web developer who loves building efficient and scalable applic
 </div>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HabibullahFTL&theme=dark&hide_border=true&border_radius=20" width="700" alt="GitHub Graph" /> </p>
 
+
+
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibullahftl&label=Profile%20views&color=0e75b6&style=flat" alt="habibullahftl" /> </p>
