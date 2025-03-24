@@ -82,7 +82,7 @@ I am a passionate web developer who loves building efficient and scalable applic
 <div align="center"> 
     <img src="https://streak-stats.demolab.com?user=HabibullahFTL&theme=dark&hide_border=true&border_radius=12" width="700" alt="GitHub Streak" /> 
 </div> 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HabibullahFTL&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=Habibullah Bahar's%20GitHub%20Stats" width="400" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibullahFTL&theme=dark&hide_border=true&layout=compact&border_radius=12" width="300" alt="Top Languages" /> 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HabibullahFTL&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=Habibullah's%20GitHub%20Stats" width="400" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibullahFTL&theme=dark&hide_border=true&layout=compact&border_radius=12" width="300" alt="Top Languages" /> 
 </div>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HabibullahFTL&theme=dark&hide_border=true&border_radius=20" width="700" alt="GitHub Graph" /> </p>
 
