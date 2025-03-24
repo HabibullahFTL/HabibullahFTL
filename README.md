@@ -71,7 +71,7 @@ I am a passionate web developer who loves building efficient and scalable applic
     [🔗 Visit Rowely](https://shoprowely.com/)
 
 
-## ✉️ Contact Me
+## 📨 Contact Me
 - Email: habibullahftl@gmail.com  
 - Portfolio: https://habibullahftl.com/
 - LinkedIn: https://linkedin.com/in/habibullahftl
